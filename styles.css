@@ -1,0 +1,40 @@
+#footer .footer-bg {
+  background-color: #1c1c1c;
+  padding-top: 48px;
+  padding-bottom: 20px;
+}
+#footer .comp-text {
+  font-family: Inter;
+  font-size: 18.667px;
+  font-style: normal;
+  font-weight: 400;
+  
+}
+#footer h5 {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  
+}
+
+#footer a{
+
+  color: #ddd;
+  font-family: Inter;
+  font-size: 18.667px;
+  font-style: normal;
+  font-weight: 400;
+}
+#footer p{
+    color: #ddd;
+    font-family: Inter;
+    font-size: 18.667px;
+    font-style: normal;
+    font-weight: 400; 
+}
+#footer .footer-container{
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
